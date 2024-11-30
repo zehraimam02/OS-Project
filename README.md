@@ -1,5 +1,4 @@
-# **SHA-256 Implementation and Analysis in Kernel Space, User Space, and System Calls
-**
+# **SHA-256 Implementation and Analysis in Kernel Space, User Space, and System Calls**
 Operating Systems Term Project
 
 Authors:

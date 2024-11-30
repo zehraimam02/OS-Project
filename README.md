@@ -4,6 +4,8 @@ Operating Systems Term Project
 Authors:
 - Ameera Ali
 - Syeda Zehra Imam
+
+Report Link: https://docs.google.com/document/d/1gNW3rP1_xr0u8RWqk1WKJFZG84fDNch34uApU2zOKTg/edit?usp=sharing
   
 ## **Project Overview**
 This project involves implementing and analyzing the SHA-256 cryptographic hash algorithm in three environments:

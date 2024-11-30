@@ -30,7 +30,7 @@ Our analysis focuses on the development, testing, performance evaluation, and se
   - Implementation as a standalone program in user space.
   - Testing with various input sizes and data types.
 
-3.System Call Integration:
+3. System Call Integration:
   - Addition of a custom system call for SHA-256.
   - Evaluation of the syscall interface's impact on performance and usability.
   
